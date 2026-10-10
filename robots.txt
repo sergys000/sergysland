@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sergys000.github.io/sergysland-rx/sitemap.xml
